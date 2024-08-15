@@ -92,7 +92,7 @@ To send Slack notifications from Jenkins, you can use the "Slack Notification" p
 ```
 1. Create a Slack account if you don't have one. Set up a Slack workspace if you haven't already.
 
-2. To create an app in slack you have required permissions, otherwise you will not be able to see app options
+2. To create an app in slack you have required permissions, otherwise you will not be able to see app options h
 
 3. Navigate to workspace in Slack-->Settings & adminstration--> Manage apps
 
